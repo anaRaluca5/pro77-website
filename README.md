@@ -21,7 +21,6 @@ This project represents a real-world business website developed for **pro77.ro**
 * HTML
 * CSS
 * JavaScript
-* (adaugă aici dacă ai folosit altceva: PHP / MySQL / etc.)
 
 ## Project Structure
 
